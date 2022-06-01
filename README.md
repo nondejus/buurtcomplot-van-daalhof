@@ -7,3 +7,5 @@ https://en.wikipedia.org/wiki/Torture
 https://nl.wikipedia.org/wiki/Klopboormachine
 
 https://en.wikipedia.org/wiki/Organ_of_Corti
+
+https://en.wikipedia.org/wiki/Cochlear_nerve
